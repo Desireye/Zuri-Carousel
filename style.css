@@ -75,3 +75,13 @@ img{
   from {opacity: .4}
   to {opacity: 1}
 }
+
+@media screen and (max-width: 375px){
+  img{
+    height: 170px;
+    width: auto;
+  }
+  .inner{
+    height: 290px;
+  }
+}
