@@ -8,7 +8,7 @@
 }
 .inner{
   background: grey;
-  height: 400px;
+  height: 530px;
 }
 .slides{
 /*   display: none; */
@@ -18,8 +18,8 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  margin-top: 27px;
+  width: 75%;
+  margin-top: 30px;
 }
 .prev, .next{
   cursor: pointer;
